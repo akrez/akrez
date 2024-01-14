@@ -6,13 +6,10 @@
       🔭 I’m currently working at <b>Favin</b>
     </li>
     <li>
-      🌱 I’m currently learning <b>Laravel, Microservice, RabbitMq</b>
+      🌱 I’m currently learning <b>Laravel</b> in deep
     </li>
     <li>
       💬 Ask me about <b>PHP</b>
-    </li>
-    <li>
-      📫 How to reach me <b>akrez.like@gmail.com</b>
     </li>
   </ul>
 
@@ -24,16 +21,22 @@
         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
         alt="akrez" height="30" width="40" />
     </a>
+    <a href="mailto:akrez.like@gmail.com" target="blank">
+      <img align="center"
+        src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+        alt="akrez" height="30" width="40" />
+    </a>
   </p>
 
 
   <h2 align="left">💻 Languages and Tools:</h2>
   <p align="left">
-    <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
-        alt="bootstrap" width="40" height="40" />
-    </a>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
+      alt="bootstrap" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/yii/yii-original.svg"
+      alt="bootstrap" width="40" height="40" />
   </p>
+
 
   <h2 align="left">📊 GitHub Stats:</h2>
   <p align="left">
@@ -45,6 +48,15 @@
       <img height=200 align="center"
         src="https://github-readme-stats.vercel.app/api/top-langs?username=akrez&layout=compact&langs_count=8&card_width=320&theme=great-gatsby" />
     </a>
+
+    <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akrez&show_icons=true&locale=en&layout=compact" alt="akrez" /></p>
+    <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=akrez&show_icons=true&locale=en" alt="akrez" /></p>
+    <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akrez&" alt="akrez" /></p>
+
   </p>
+
+  
+
+  <img src="https://komarev.com/ghpvc/?username=akrez&style=flat-square&color=blue" alt="" />
 
 </article>
