@@ -20,10 +20,10 @@
 <h2 align="left">📊 GitHub Stats:</h2>
 <p align="left">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=saeed-isfahani&theme=great-gatsby" />
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=akrez&theme=great-gatsby" />
   </a>
   <a href="https://github.com/anuraghazra/convoychat">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=saeed-isfahani&layout=compact&langs_count=8&card_width=320&theme=great-gatsby" />
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=akrez&layout=compact&langs_count=8&card_width=320&theme=great-gatsby" />
   </a>
 </p>
 <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
