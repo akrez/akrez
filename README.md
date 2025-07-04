@@ -48,7 +48,7 @@
     </a>
     <a href="https://github.com/anuraghazra/convoychat">
       <img height=200 align="center"
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=akrez&layout=pie&langs_count=8&card_width=320&theme=great-gatsby" />
+        src="https://github-readme-stats.vercel.app/api/top-langs?username=akrez&layout=pie&langs_count=8&theme=great-gatsby" />
     </a>
   </p>
 
