@@ -44,7 +44,7 @@
   <p align="left">
     <a href="https://github.com/anuraghazra/github-readme-stats">
       <img height=200 align="center"
-        src="https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs&layout=compact" />
+        src="https://github-readme-stats.vercel.app/api/wakatime?username=akrez&layout=compact" />
     </a>
   </p>
 
