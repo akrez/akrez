@@ -21,11 +21,11 @@
   <h2 align="left">🌐 Connect with me:</h2>
   <p align="left">
     <a href="https://www.linkedin.com/in/akrez/" target="blank">
-      <img align="center" src="https://simpleskill.icons.workers.dev/svg?i=linkedin" alt="akrez" height="30"
+      <img align="center" src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/LinkedIn.svg" alt="akrez" height="30"
         width="40" />
     </a>
     <a href="mailto:akrez.like@gmail.com" target="blank">
-      <img align="center" src="https://simpleskill.icons.workers.dev/svg?i=gmail" alt="akrez" height="30" width="40" />
+      <img align="center" src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Gmail-Dark.svg" alt="akrez" height="30" width="40" />
     </a>
   </p>
 
