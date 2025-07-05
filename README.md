@@ -21,21 +21,21 @@
   <h2 align="left">🌐 Connect with me:</h2>
   <p align="left">
     <a href="https://www.linkedin.com/in/akrez/" target="blank">
-      <img align="center" src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/LinkedIn.svg" alt="akrez" max-width="40px" max-height="40px" />
+      <img align="center" src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/LinkedIn.svg" alt="akrez" width="40px" height="40px" max-width="40px" max-height="40px" />
     </a>
     <a href="mailto:akrez.like@gmail.com" target="blank">
-      <img align="center" src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Gmail-Dark.svg" alt="akrez" max-width="40px" max-height="40px" />
+      <img align="center" src="https://raw.githubusercontent.com/tandpfun/skill-icons/refs/heads/main/icons/Gmail-Dark.svg" alt="akrez" width="40px" height="40px" max-width="40px" max-height="40px" />
     </a>
   </p>
 
 
   <h2 align="left">💻 Languages and Tools:</h2>
   <p align="left">
-    <img src="https://www.yiiframework.com/image/design/logo/yii3_sign.svg" alt="yii" max-width="40px" max-height="40px" />
-    <img src="https://simpleskill.icons.workers.dev/svg?i=codeigniter" alt="codeigniter" max-width="40px" max-height="40px" />
-    <img src="https://simpleskill.icons.workers.dev/svg?i=laravel" alt="laravel" max-width="40px" max-height="40px" />
-    <img src="https://simpleskill.icons.workers.dev/svg?i=php" alt="php" max-width="40px" max-height="40px" />
-    <img src="https://simpleskill.icons.workers.dev/svg?i=bootstrap" alt="bootstrap" max-width="40px" max-height="40px" />
+    <img src="https://www.yiiframework.com/image/design/logo/yii3_sign.svg" alt="yii" width="40px" height="40px" max-width="40px" max-height="40px" />
+    <img src="https://simpleskill.icons.workers.dev/svg?i=codeigniter" alt="codeigniter" width="40px" height="40px" max-width="40px" max-height="40px" />
+    <img src="https://simpleskill.icons.workers.dev/svg?i=laravel" alt="laravel" width="40px" height="40px" max-width="40px" max-height="40px" />
+    <img src="https://simpleskill.icons.workers.dev/svg?i=php" alt="php" width="40px" height="40px" max-width="40px" max-height="40px" />
+    <img src="https://simpleskill.icons.workers.dev/svg?i=bootstrap" alt="bootstrap" width="40px" height="40px" max-width="40px" max-height="40px" />
   </p>
 
 
